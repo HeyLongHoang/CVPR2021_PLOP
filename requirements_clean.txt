@@ -90,7 +90,7 @@ pyasn1
 pyasn1-modules
 pycairo
 pycrypto
-pycups
+# pycups
 Pygments
 # pygobject
 pymacaroons
