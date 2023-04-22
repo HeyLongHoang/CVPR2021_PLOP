@@ -1,0 +1,151 @@
+absl-py
+apex
+# apturl
+# asn1cryptox
+astor
+attrs
+Automat
+backcall
+bleach
+# Brlapi
+certifi
+chardet
+click
+colorama
+# command-not-found
+configobj
+constantly
+cryptography
+# cupshelpers
+cvxpy
+cycler
+decorator
+defer
+defusedxml
+dill
+distro-info
+ecos
+entrypoints
+future
+gast
+google-pasta
+grpcio
+h5py
+httplib2
+hyperlink
+idna
+incremental
+inplace-abn
+ipykernel
+ipython
+ipython-genutils
+ipywidgets
+jedi
+Jinja2
+joblib
+jsonschema
+jupyter
+jupyter-client
+jupyter-console
+jupyter-core
+Keras-Applications
+Keras-Preprocessing
+keyring
+keyrings.alt
+kiwisolver
+# language-selector
+launchpadlib
+lazr.restfulclient
+lazr.uri
+louis
+macaroonbakery
+Mako
+Markdown
+MarkupSafe
+matplotlib
+mistune
+multiprocess
+nbconvert
+nbformat
+netifaces
+nose
+notebook
+numpy
+oauth
+olefile
+osqp
+PAM
+pandocfilters
+parso
+pexpect
+pickleshare
+Pillow
+pluggy
+prometheus-client
+prompt-toolkit
+protobuf
+ptyprocess
+py
+pyasn1
+pyasn1-modules
+pycairo
+pycrypto
+pycups
+Pygments
+# pygobject
+pymacaroons
+PyNaCl
+pyOpenSSL
+pyparsing
+pyRFC3339
+pyrsistent
+pyserial
+pytest
+# python-apt
+python-dateutil
+python-debian
+pytz
+pyxdg
+PyYAML
+pyzmq
+qtconsole
+reportlab
+requests
+requests-unixsocket
+scikit-learn
+scipy
+# screen-resolution-extra
+scs
+SecretStorage
+Send2Trash
+service-identity
+simplegeneric
+simplejson
+six
+ssh-import-id
+# system-service
+# systemd-python
+tensorboard
+tensorboardX
+tensorflow-estimator
+# tensorflow-gpu
+termcolor
+terminado
+testpath
+torch
+torchvision
+tornado
+traitlets
+Twisted
+# ubuntu-drivers-common
+# ufw
+urllib3
+# usb-creator
+wadllib
+wcwidth
+webencodings
+Werkzeug
+widgetsnbextension
+wrapt
+# xkit
+# zope.interfacex
